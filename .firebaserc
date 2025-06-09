@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "taskmanager-6178d",
+    "staging ": "taskmanger-30570"
+  },
+  "targets": {
+    "taskmanger": {
+      "hosting": {
+        "taskmanger": [
+          "taskmanger"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
